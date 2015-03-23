@@ -9,11 +9,23 @@ Plugin URI:
 Description: URL Based Login is a plugin which allows you to directly login from an allowed URL. You can create multiple login URLs which can get access to the specified user. So if you want to allow someone to login but you do not want to share the login details just give them a URL to login.
 Version: 1.0
 Author: Udit Bhansali
-License: 
+License: GPLv3 or later 
 */
 
 /*
 Copyright (C) 2013  Udit Bhansali (email : udit@ymail.com)
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 if(!function_exists('add_action')){

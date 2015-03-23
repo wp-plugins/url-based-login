@@ -11,7 +11,7 @@ URL Based Login allows you to directly login from an allowed Login URL.
 
 URL Based Login allows you to directly login from an allowed URL. So if you want to allow someone to login but you do not want to share the login details just create a Login URL with URL Based Login and provide them the Login URL.
 
-Features in URL Based Login 1.3.3 include:
+Features in URL Based Login 1.0 include:
 
 * Create multiple Login URLs
 * Choose the username accessible when accessed by the allowed URL
