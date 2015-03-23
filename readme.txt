@@ -25,17 +25,21 @@ Features in URL Based Login 1.3.0  include:
 
 
 INSTALLATION
+
 Easy Way:
+
 Go to the WordPress Dashboard "Add New Plugin" section.
 Search For "URL Based Login".
 Install, then Activate it.
 
 Old Way:
+
 Download the plugin Unzip (if it is zipped) and upload url-based-login folder to the /wp-content/plugins/ directory
 Activate the plugin through the 'Plugins' menu in WordPress
 
 CONFIGURATION
-The plugin's admin page can be found under Settings menu (Settings => URL Based Login
+
+The plugin's admin page can be found under Settings menu (Settings => URL Based Login)
 
 == Screenshots ==
 
