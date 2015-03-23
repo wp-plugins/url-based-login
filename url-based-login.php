@@ -1,13 +1,13 @@
 <?php
 /**
  * @package url-based-login
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: URL Based Login
 Plugin URL: https://wordpress.org/plugins/url-based-login/ 
 Description: URL Based Login is a plugin which allows you to directly login from an allowed URL. You can create multiple login URLs which can get access to the specified user. So if you want to allow someone to login but you do not want to share the login details just give them a URL to login.
-Version: 1.0
+Version: 1.1
 Author: Udit Bhansali
 License: GPLv3 or later 
 */

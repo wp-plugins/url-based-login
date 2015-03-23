@@ -2,8 +2,8 @@
 Contributors: iamudit
 Tags: auto, login, url, based, authentication, access, credentials, easy access
 Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 1.0
+Tested up to: 4.1.1
+Stable tag: 1.1
 
 URL Based Login allows you to directly login from an allowed Login URL. 
 
@@ -28,7 +28,7 @@ That's it. You're done!
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 
 * Create multiple Login URLs
 * Choose the username accessible when accessed by the allowed URL
@@ -37,3 +37,11 @@ That's it. You're done!
 * No passwords saved
 * Completely FREE
 * Licensed under GNU GPL version 3
+
+= 1.0 =
+
+* Choose the username accessible when accessed by the allowed URL
+* Delete Login URLs
+* Safe & Secure
+* No passwords saved
+
